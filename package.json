@@ -1,0 +1,26 @@
+{
+  "name": "granbf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js",
+    "mobage": "node src/createmobageacct.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liangzi4000/GRANBF.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liangzi4000/GRANBF/issues"
+  },
+  "homepage": "https://github.com/liangzi4000/GRANBF#readme",
+  "dependencies": {
+    "googleapis": "^35.0.0",
+    "mssql": "^4.2.3",
+    "puppeteer": "^1.10.0"
+  }
+}
